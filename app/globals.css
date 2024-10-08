@@ -25,3 +25,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.inter-custom {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Change to desired weight */
+  font-style: normal;
+}
